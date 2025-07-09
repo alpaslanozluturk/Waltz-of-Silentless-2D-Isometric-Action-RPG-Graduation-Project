@@ -1,1 +1,2 @@
 # Waltz-of-Silentless-2D-Isometric-Action-RPG-Graduation-Project
+# A 2D isometric action-RPG developed in Unity as a university graduation project. The game features real-time combat, an evolving inventory and skill tree system, and a "boss rush" progression structure. Players interact with NPCs to uncover story elements, defeat powerful bosses, and unlock new abilities through experience-based growth. Designed for desktop platforms, the game emphasizes tactical gameplay, minimalist UI, and atmospheric storytelling.
